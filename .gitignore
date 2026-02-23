@@ -1,0 +1,21 @@
+# Project-specific private files
+PROJECT-DETAILS.md
+
+# CircuitPython build artifacts
+*.mpy
+lib/
+adafruit-circuitpython-raspberry_pi_pico2_w-en_US-10.1.3.uf2
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+*.swp
+*.swo
+*~
