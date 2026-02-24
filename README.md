@@ -8,10 +8,10 @@ The Nunchuk's joystick, tilt sensor, and buttons are mapped to mouse and keyboar
 
 | Input | Default | Button C Held | Button Z Held |
 |-------|---------|---------------|---------------|
-| Joystick Up/Down | Zoom In/Out | Mouse Move + Left Click (drag) | — |
-| Joystick Left/Right | Pan Left/Right | Mouse Move + Left Click (drag) | — |
-| Tilt Up/Down | Disabled | — | Orbit Up/Down |
-| Tilt Left/Right | Disabled | — | Orbit Left/Right |
+| Joystick Up/Down | Zoom In/Out | Mouse Move + Left Click (drag) | Orbit Up/Down |
+| Joystick Left/Right | Pan Left/Right | Mouse Move + Left Click (drag) | Orbit Left/Right |
+| Tilt Up/Down | Disabled | — | — |
+| Tilt Left/Right | Disabled | — | — |
 | Button C (tap) | Keyboard "F" (Fit to View) | — | — |
 | Button Z (tap) | Keyboard "D" (Drop to Workplane) | — | — |
 
